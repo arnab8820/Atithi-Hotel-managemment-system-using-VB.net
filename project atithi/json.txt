@@ -1,0 +1,27 @@
+﻿{
+    "success": {
+        "total": 1
+    },
+    "contents": {
+        "quotes": [
+            {
+                "quote": "Don't use all-or-nothing thinking. Take each day as its own day, and don't worry about it if you mess up one day. The most important thing you can do is just get back up on the horse.",
+                "length": "183",
+                "author": "Henry Cloud",
+                "tags": [
+                    "binary-think",
+                    "inspire",
+                    "life",
+                    "retrying"
+                ],
+                "category": "inspire",
+                "date": "2018-09-09",
+                "permalink": "https://theysaidso.com/quote/h0f7X_LqO7_Pf0jz6e_9UgeF/henry-cloud-dont-use-all-or-nothing-thinking-take-each-day-as-its-own-day-and-do",
+                "title": "Inspiring Quote of the day",
+                "background": "https://theysaidso.com/img/bgs/man_on_the_mountain.jpg",
+                "id": "h0f7X_LqO7_Pf0jz6e_9UgeF"
+            }
+        ],
+        "copyright": "2017-19 theysaidso.com"
+    }
+}
